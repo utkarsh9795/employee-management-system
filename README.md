@@ -1,6 +1,6 @@
-Here is the live preview of this project
+Here is the demo of this project
 
-[Live Preview](https://utkarsh-ems-anand.netlify.app)
+[Demo Link](https://utkarsh-ems-anand.netlify.app) 
 
 # Employee Management System
 
